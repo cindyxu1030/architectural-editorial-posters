@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architectural Editorial Posters"
+  short_description: "Build adaptive architecture-led editorial posters"
+  default_prompt: "Use $architectural-editorial-posters to turn my brief into a polished poster at the requested aspect ratio."
